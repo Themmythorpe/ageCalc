@@ -3,6 +3,6 @@
     "track": "backend",
     "email": "soge.tope@gmail.com",
     "githubUsername": "Themmythorpe",
-    "deployedAppURL": "https://age-calc-app.herokuapp.com/",
+    "deployedAppURL": "https://git.heroku.com/age-calc-app.git",
     "explainer": "pass dob parameter to the GET root url"
 }
