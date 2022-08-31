@@ -4,5 +4,5 @@
     "email": "soge.tope@gmail.com",
     "githubUsername": "Themmythorpe",
     "deployedAppURL": "https://age-calc-app.herokuapp.com/",
-    "explainer": ""
+    "explainer": "pass dob parameter to the GET root url"
 }
